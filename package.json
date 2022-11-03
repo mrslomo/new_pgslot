@@ -1,13 +1,19 @@
 {
-  "name": "atom-package-template",
-  "theme": "atom-package-template",
+  "name": "new_pgslot",
+  "theme": "news PG slot wallet แตกไม่อั้น ฝากขั้นต่ำ 1 บาท",
   "version": "0.10.9",
-  "description": "เพิ่มตรงนี้",
+  "description": "news PG slot wallet แตกไม่อั้น ฝากขั้นต่ำ 1 บาท",
   "keywords": [
-    "ใส่เพิ่มตรงนี้",
-    "เพิ่มตรงนี้"
+    "pg slot",
+    "pg",
+    "slotwallet",
+    "พีจี",
+    "เล่นสล็อต",
+    "แทงสล็อต",
+    "สล็อต",
+    "สล็อต24ชั่วโมง"
   ],
-  "repository": "https://github.com/7elven/atom-package-template",
+  "repository": "https://github.com/mrslomo/new_pgslot.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
